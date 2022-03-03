@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabricio Diaz\\source\\repos\\ListDictionaryProgram\\ListDictionaryProgram.csproj",
+      "projectUniqueName": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\ListDictionaryProgram\\ListDictionaryProgram\\ListDictionaryProgram.csproj",
       "projectName": "ListDictionaryProgram",
-      "projectPath": "C:\\Users\\Fabricio Diaz\\source\\repos\\ListDictionaryProgram\\ListDictionaryProgram.csproj",
+      "projectPath": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\ListDictionaryProgram\\ListDictionaryProgram\\ListDictionaryProgram.csproj",
       "packagesPath": "C:\\Users\\Fabricio Diaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabricio Diaz\\source\\repos\\ListDictionaryProgram\\obj\\",
+      "outputPath": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\ListDictionaryProgram\\ListDictionaryProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
